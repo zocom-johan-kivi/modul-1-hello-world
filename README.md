@@ -46,7 +46,16 @@ Om du aldrig använd Discord förut, kika in [denna crashkurs](https://www.youtu
 ### Github organisation
 Kursen är upplagd som en [github organisation](https://github.com/Folkuniversitetet-React). Här hittar du samtliga innehållsmoduler och boilerplate-kod.
 
-### Publicera din PWA
+### Node.js och NPM
+
+Node.js är en runtime som gör att det går att köra javascript på nästan vad som helst. Vi 
+kommer använda node.js för att kunna skapa gruppuppsättningar ( Scaffolding) av React-
+projekt. Node.js finns till samtliga plattformar ( PC, Mac, Linux ) och laddas ner på följande 
+adress: https://nodejs.org
+
+Vi kommer även användas av NPM för att installera moduler från npmjs.com. Detta följer dock med i installationen av Node ovan.
+
+### Publicera din React app
 Vi kommer använda oss av [Netlify](https://www.netlify.com/) för att publicera våra PWAs på det stora vilda internet. 
 
 Genom att koppla ihop Netlify och ditt github-repo så kan vi på ett väldigt enkelt sätt publicera din PWA och hålla den uppdaterad.
