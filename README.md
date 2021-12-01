@@ -16,7 +16,7 @@ Kursen består av *6 st innehållsmoduler* samt 4 individuella handledningstillf
 
 |nr|Modul|Innehåll|
 |---|---|---|
-|1|[Komponenter?](https://github.com/FU-PWA-HT21/1.-PWA)|I denna modul utreder vi vad, samt vilka fördelar det finns med PWA.|
+|1|[Komponenter](https://github.com/FU-PWA-HT21/1.-PWA)|I denna modul utreder vi vad, samt vilka fördelar det finns med PWA.|
 ||Planeringsmöte|Här träffas vi i 30 minuter och skapar din egna *individuella studieplan.*|
 |2|[Interaktivitet](https://github.com/FU-PWA-HT21/2.-Installable)|I denna modul kikar vi på ett av PWAs kriterier, att bli installerbar på en mobil enhet.|
 |3|[State ](https://github.com/FU-PWA-HT21/3.-Offline-capable)|I denna modul kikar vi på hur vi får vår PWA att fungera offline.|
