@@ -54,8 +54,3 @@ projekt. Node.js finns till samtliga plattformar ( PC, Mac, Linux ) och laddas n
 adress: https://nodejs.org
 
 Vi kommer även användas av NPM för att installera moduler från npmjs.com. Detta följer dock med i installationen av Node ovan.
-
-### Publicera din React app
-Vi kommer använda oss av [Netlify](https://www.netlify.com/) för att publicera våra PWAs på det stora vilda internet. 
-
-Genom att koppla ihop Netlify och ditt github-repo så kan vi på ett väldigt enkelt sätt publicera din PWA och hålla den uppdaterad.
