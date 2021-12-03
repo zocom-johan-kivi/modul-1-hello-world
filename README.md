@@ -16,13 +16,13 @@ Kursen består av *6 st innehållsmoduler* samt 4 individuella handledningstillf
 
 |nr|Modul|Innehåll|
 |---|---|---|
-|1|[Komponenter](https://github.com/FU-PWA-HT21/1.-PWA)|I denna modul utreder vi vad, samt vilka fördelar det finns med PWA.|
+|1|[Komponenter](https://github.com/Folkuniversitetet-React/modul-2-komponenter)|I denna modul utreder vi vad ett ramverk är samt hur man tänker i komponenter. |
 ||Planeringsmöte|Här träffas vi i 30 minuter och skapar din egna *individuella studieplan.*|
-|2|[Interaktivitet](https://github.com/FU-PWA-HT21/2.-Installable)|I denna modul kikar vi på ett av PWAs kriterier, att bli installerbar på en mobil enhet.|
-|3|[State ](https://github.com/FU-PWA-HT21/3.-Offline-capable)|I denna modul kikar vi på hur vi får vår PWA att fungera offline.|
+|2|[Interaktivitet](https://github.com/Folkuniversitetet-React/modul-3-interaktivitet)|I denna modul tittar vi på hur vi får in interaktivitet i vår React app samt dynamiskt renderar innehåll. |
+|3|[State ](https://github.com/Folkuniversitetet-React/modul-4-state)|I denna modul kollar vi på vad ett state är och hur vi kan använda det i vår React app.|
 ||Handledning|Individuell handledning 30min.|
-|4|[React Router](https://github.com/FU-PWA-HT21/4.-Storage)|I denna modul kikar vi på hur man kan spara saker i den lokala enheten.|
-|5|[Redux](https://github.com/FU-PWA-HT21/5.-Push-notifications)|I denna modul kikar vi på vad push notiser är och hur de implementeras i en PWA.|
+|4|[React Router](https://github.com/Folkuniversitetet-React/modul-5-react-router)|I denna modul kikar vi på hur vi kan bygga en Single Page Application (SPA) med React router. |
+|5|[Redux](https://github.com/Folkuniversitetet-React/modul-6-redux)|I denna modul utreder vi fördelar med ett state management system och kollar in vad Redux är och hur det fungerar tillsammans med React. |
 ||Handledning|Individuell handledning 30min.|
 |6|[Examination](#)|Kursens slutexamination och bedömningsunderlag.|
 ||Handledning|Individuell handledning 30min.|
