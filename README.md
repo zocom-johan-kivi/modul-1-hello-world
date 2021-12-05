@@ -24,7 +24,7 @@ Kursen består av *6 st innehållsmoduler* samt 4 individuella handledningstillf
 |4|[React Router](https://github.com/Folkuniversitetet-React/modul-5-react-router)|I denna modul kikar vi på hur vi kan bygga en Single Page Application (SPA) med React router. |
 |5|[Redux](https://github.com/Folkuniversitetet-React/modul-6-redux)|I denna modul utreder vi fördelar med ett state management system och kollar in vad Redux är och hur det fungerar tillsammans med React. |
 ||Handledning|Individuell handledning 30min.|
-|6|[Examination](#)|Kursens slutexamination och bedömningsunderlag.|
+|6|[Examination](https://github.com/Folkuniversitetet-React/modul-7-slutexamination)|Kursens slutexamination och bedömningsunderlag.|
 ||Handledning|Individuell handledning 30min.|
 
 ### Handledning
