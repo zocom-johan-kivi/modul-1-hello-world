@@ -28,7 +28,7 @@ Kursen består av *6 st innehållsmoduler* samt 4 individuella handledningstillf
 ||Handledning|Individuell handledning 30min.|
 
 ### Handledning
-Handledning sker vid _inbokade tillfällen_. Du bokar in handledning på [följande länk]().
+Handledning sker vid _inbokade tillfällen_. Du bokar in handledning på [följande länk](https://calendly.com/zocom).
 
 ### Daglig kommunikation på discord
 Till denna kurs har vi skapat en egen [discord-server](https://discord.com/). Syftet med den är att ni kursdeltagare kan kommunciera, hjälpa och utmana varandra på dygnets alla timmar. Handledare är inbjudna och svarar i mån av tid.
